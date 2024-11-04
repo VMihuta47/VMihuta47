@@ -26,7 +26,9 @@ Soy un desarrollador de videojuegos con experiencia en Unity y C#, apasionado po
 
 [Portfolio en YouTube](https://www.youtube.com/watch?v=3Eq4BUpeMXg)
 
-![GreedyBoy](https://github.com/user-attachments/assets/328d3e83-56ca-4a7f-b4fe-eb94d4076536)
+![GreedyBoy1](https://github.com/user-attachments/assets/e05e08ee-5476-4a9e-bc38-ecda9708e6df)
+
+![GreedyBoy2](https://github.com/user-attachments/assets/328d3e83-56ca-4a7f-b4fe-eb94d4076536)
 
 ![LastLight1](https://github.com/user-attachments/assets/61105fdd-19c5-4291-aec4-77138764b7e4)
 
