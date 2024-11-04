@@ -19,3 +19,9 @@ Soy un desarrollador de videojuegos con experiencia en Unity y C#, apasionado po
 - **Motores de Juego**: Unity
 - **Modelado 3D**: Autodesk Maya
 - **Herramientas**: Git
+
+---
+
+## Portafolio de Proyectos
+
+[Algunos ejemplos de proyectos](https://www.youtube.com/watch?v=3Eq4BUpeMXg)
