@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy [Vasiliu Mihuta] 👋
+### Desarrollador de Videojuegos | Unity | C# | 
 
-<!--
-**VMihuta47/VMihuta47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador de videojuegos con experiencia en Unity y C#, apasionado por crear experiencias inmersivas e interactivas. Aquí podrás ver algunos de mis proyectos destacados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados
+
+### Proyecto 1: [Last Light]
+- **Descripción**: Videojuego de terror en 3D
+- **Tecnologías**: Unity, C#, Maya
+- **Características destacadas**: Mecánica de inventario, sistema de puzzles, IA de enemigo.
+
+---
+
+## 📚 Habilidades
+- **Lenguajes**: C#, Python (Básico)
+- **Motores de Juego**: Unity
+- **Modelado 3D**: Autodesk Maya
+- **Herramientas**: Git
