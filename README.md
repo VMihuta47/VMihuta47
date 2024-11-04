@@ -22,6 +22,9 @@ Soy un desarrollador de videojuegos con experiencia en Unity y C#, apasionado po
 
 ---
 
-## Portafolio de Proyectos
+## Portfolio de Proyectos
 
-[Algunos ejemplos de proyectos](https://www.youtube.com/watch?v=3Eq4BUpeMXg)
+[Portfolio en YouTube](https://www.youtube.com/watch?v=3Eq4BUpeMXg)
+
+![Imagen de ejemplo](https://github.com/user-attachments/assets/328d3e83-56ca-4a7f-b4fe-eb94d4076536)
+
